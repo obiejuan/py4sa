@@ -54,6 +54,7 @@ class MainHandler(webapp.RequestHandler):
     <p>
     <b>Virtual Machine Instructions: <a href="http://www.livingubuntu.com/?p=89">http://www.livingubuntu.com/?p=89</a></b>
     </p>
+	<!--comment-->
     </html>""")
 
 
